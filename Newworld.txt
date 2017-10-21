@@ -1,3 +1,7 @@
-Git is a version control system
+Git is a version control system, exactly, it's a distributed version control system
 
 i want to learn git goood
+
+what is more,git is free tool
+
+i like git very much
