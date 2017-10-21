@@ -13,3 +13,5 @@ git has a mutable index called stage.
 git can track every changs.
 
 let me check the function of git diff
+
+i do not like my boss
